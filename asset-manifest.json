@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/busBooking/static/css/main.e6c13ad2.css",
+    "main.js": "/busBooking/static/js/main.4f58e695.js",
+    "static/js/453.3730f910.chunk.js": "/busBooking/static/js/453.3730f910.chunk.js",
+    "index.html": "/busBooking/index.html",
+    "main.e6c13ad2.css.map": "/busBooking/static/css/main.e6c13ad2.css.map",
+    "main.4f58e695.js.map": "/busBooking/static/js/main.4f58e695.js.map",
+    "453.3730f910.chunk.js.map": "/busBooking/static/js/453.3730f910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4f58e695.js"
+  ]
+}
